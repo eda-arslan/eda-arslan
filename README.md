@@ -102,7 +102,7 @@ While my main role is a DBA, I have a strong passion for game development. I cre
     </div>
 
 <p>
-        <img src="https://github-profile-trophy-lake-two.vercel.app//?username=eda-arslan&theme=onedark&border-color=000000&margin-w=15&margin-h=15&coloumn=3&row=1" alt="eda-arslan" />
+        <img src="https://github-profile-trophy-lake-two.vercel.app/?username=eda-arslan&theme=onedark&border_color=000000&margin-w=15&margin-h=15&column=3&row=1" alt="eda-arslan" />
     </p>
 </div>
 <!-- Orange Line part-->
