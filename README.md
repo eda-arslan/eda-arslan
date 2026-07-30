@@ -101,10 +101,12 @@ While my main role is a DBA, I have a strong passion for game development. I cre
         <img src="https://github-readme-stats-six-beta-65.vercel.app/api/top-langs/?username=eda-arslan&layout=compact&bg_color=000000&title_color=FF8C00&text_color=FFFFFF&border_color=FF8C00" alt="Top Languages">
     </div>
 
+<!--
 <p>
         <img src="https://github-profile-trophy-lake-two.vercel.app/?username=eda-arslan&theme=onedark&border_color=000000&margin-w=15&margin-h=15&column=3&row=1" alt="eda-arslan" />
     </p>
 </div>
+-->
 <!-- Orange Line part-->
 <p align="center">
     <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0124.gif" 
