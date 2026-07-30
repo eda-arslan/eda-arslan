@@ -92,7 +92,7 @@ While my main role is a DBA, I have a strong passion for game development. I cre
 
 <div align="center">
     <br/> 
-    <img src="https://github-readme-stats-six-beta-65.vercel.app/api?username=eda-arslan&show_icons=true&bg_color=000000&title_color=FF8C00&text_color=FFFFFF&icon_color=FF8C00&border_color=FF8C00&width=400" alt="GitHub Stats"> 
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=eda-arslan&show_icons=true&count_private=true&bg_color=000000&title_color=FF8C00&text_color=FFFFFF&icon_color=FF8C00&border_color=FF8C00" alt="GitHub Stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=eda-arslan&date_format=M%20j%5B%2C%20Y%5D&theme=dark&background=000000&border=FF8C00&side_color=FF8C00&currstreak=FFFFFF&ring=FF8C00&width=400" alt="GitHub Streak">
     
 <br/> 
