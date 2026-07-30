@@ -130,7 +130,7 @@ While my main role is a DBA, I have a strong passion for game development. I cre
 <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px">  <b>Connect with Me</b>
 
 <a href="https://www.linkedin.com/in/edaarslan/" target="blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="sarath-p-m" height="40" width="45" /></a>
-&nbsp;<a href="eda.arslan@proton.me" target="blank"><img align="center" src="https://cdn.dribbble.com/userupload/29428189/file/original-ddf67c328e5f24751d54062a4a391314.gif" alt="eda.arslan@proton.me" width="45" /></a>      
+&nbsp;<a href="mailto:eda.arslan@proton.me" target="blank"><img align="center" src="https://cdn.dribbble.com/userupload/29428189/file/original-ddf67c328e5f24751d54062a4a391314.gif" alt="eda.arslan@proton.me" width="45" /></a>      
  
 <!-- Gift fox part-->
 <p align="center">
